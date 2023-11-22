@@ -420,9 +420,10 @@ body {
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
+  color: #149ddd;
 }
 .skills .progress-bar-wrap{
-  background: #f5f8fd;
+  background: #e0e0e0;
   height: 10px;
 }
 .skills .progress-bar{
